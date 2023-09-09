@@ -1,0 +1,10 @@
+{
+    "defaultEnv": "development",
+    "development": {
+      "ENV": "SCHOOLINKA_DEV_DATABASE_URL"
+    },
+    "production": {
+      "ENV": "SCHOOLINKA_PROD_DATABASE_URL"
+    },
+    "sql-file" : true
+}
